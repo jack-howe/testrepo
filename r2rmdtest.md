@@ -33,3 +33,5 @@ dotchart(VADeaths, main = "Death Rates in Virginia - 1940")
 ```
 
 ![](r2rmdtest_files/figure-gfm/dotchart-1.png)<!-- -->
+
+let’s add an extra line here to figure this out…
